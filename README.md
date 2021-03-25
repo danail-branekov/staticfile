@@ -1,0 +1,1 @@
+A `staticfile` CF application
